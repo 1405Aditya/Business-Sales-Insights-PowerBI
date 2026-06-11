@@ -31,8 +31,8 @@ This project presents an interactive Power BI dashboard analyzing business sales
 
 ## 📁 Files Included
 
-Business_Sales_Insights_Dashboard.pbix
-Business_Sales_Insights_Dashboard.png
+* Business_Sales_Insights_Dashboard.pbix
+* Business_Sales_Insights_Dashboard.png
 
 ## 🚀 Learnings
 
